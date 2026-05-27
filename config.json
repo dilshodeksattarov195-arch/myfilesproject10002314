@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "uploadervonnect",
+        "uuid": 6122844,
+        "checksum": "vol8wn"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "production"
+    }
+}
